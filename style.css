@@ -39,8 +39,8 @@ ul {
   margin: 0;
   padding: 0;
 }
-li,
-h3 {
+.item,
+.heading {
   list-style: none;
 }
 input,
